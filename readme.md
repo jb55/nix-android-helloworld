@@ -1,4 +1,4 @@
-# Android Nix HelloWorld
+# Nix Android HelloWorld
 
     $ mkdir nix-android-hello && cd nix-android-hello
     $ nix-shell -p androidenv.androidsdk_2_2
